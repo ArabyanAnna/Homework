@@ -9,7 +9,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SumOfNumberDigits", "SumOfN
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ImportNumberAndOutput", "ImportNumberAndOutput\ImportNumberAndOutput.csproj", "{8A4A8CCE-0E2C-479D-8D81-BB5D5AAF1405}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GivenAYearReturnTheCenturyItIsIn.", "GivenAYearReturnTheCenturyItIsIn\GivenAYearReturnTheCenturyItIsIn..csproj", "{95A692A0-411D-434C-BD78-21B4AE85A42B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GivenAYearReturnTheCenturyItIsIn.", "GivenAYearReturnTheCenturyItIsIn\GivenAYearReturnTheCenturyItIsIn..csproj", "{95A692A0-411D-434C-BD78-21B4AE85A42B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GivenTheStringCheckIfItIsPalindrome.", "GivenTheStringCheckIfItIsPalindrome\GivenTheStringCheckIfItIsPalindrome..csproj", "{D58F40C7-AC7E-4B4A-A4BE-63449D2F863B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,6 +35,10 @@ Global
 		{95A692A0-411D-434C-BD78-21B4AE85A42B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{95A692A0-411D-434C-BD78-21B4AE85A42B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{95A692A0-411D-434C-BD78-21B4AE85A42B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D58F40C7-AC7E-4B4A-A4BE-63449D2F863B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D58F40C7-AC7E-4B4A-A4BE-63449D2F863B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D58F40C7-AC7E-4B4A-A4BE-63449D2F863B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D58F40C7-AC7E-4B4A-A4BE-63449D2F863B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
